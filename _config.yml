@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://KatherineRCook.github.io
+title: 485 Digital Archaeoloy
+tagline: A Course Blog
+description: This is the blog for ANTH 485: Digital Archaeology at the University of Victoria.
+paginate: 10
